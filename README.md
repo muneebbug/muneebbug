@@ -7,21 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/muneebbug" target="blank"><img src="https://img.shields.io/twitter/follow/muneebbug?logo=twitter&style=for-the-badge" alt="muneebbug" /></a> </p>
 
-- 🔭 I’m currently working on [DudeCoder](dudecoder.com)
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [www.fiverr.com/muneeb_webpro](www.fiverr.com/muneeb_webpro)
-
-- 📝 I regularly write articles on [muneeburrehman.com](muneeburrehman.com)
-
-- 💬 Ask me about **vue, shopify**
-
-- 📫 How to reach me **realmuneeburrehman@gmail.com**
-
-- 📄 Know about my experiences [muneeburrehman.com](muneeburrehman.com)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
